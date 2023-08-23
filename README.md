@@ -8,6 +8,8 @@ Firstly, you need to download it:
 ```bash
 sudo apt -y update && apt -y upgrade
 sudo apt install -y git
+cd /
+cd home /
 git clone https://github.com/Luiz-Vinaga/whaticket-installer-vng.git
 ```
 
