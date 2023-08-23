@@ -9,7 +9,7 @@ Firstly, you need to download it:
 sudo apt -y update && apt -y upgrade
 sudo apt install -y git
 cd /
-cd home /
+cd home/
 git clone https://github.com/Luiz-Vinaga/whaticket-installer-vng.git
 ```
 
